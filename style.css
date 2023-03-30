@@ -1,0 +1,29 @@
+.main {
+  border: 10px solid yellowgreen;
+  background-color: grey;
+  text-align: center;
+  width: 550px;
+  padding: 12px;
+  /* height:250px; */
+}
+div > h1 {
+  color: blanchedalmond;
+  display: inline-block;
+  width: 150px;
+  background-color: peru;
+}
+.main > .btn {
+  width: 100%;
+}
+.time {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.p {
+  font-size: medium;
+  font-style: italic;
+  font-weight: bold;
+  color: blanchedalmond;
+}
